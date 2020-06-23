@@ -1,0 +1,42 @@
+{
+  "produits": [
+    {
+      "nom": "refrigerateur",
+      "prix": 80000,
+      "qtite": 3,
+      "desc": "Multifonction",
+      "id": 8
+    },
+    {
+      "nom": "four-vapeur",
+      "prix": 35000,
+      "qtite": 10,
+      "desc": "Bon produit, Qualité supérieur ",
+      "id": 9
+    },
+    {
+      "nom": "plaques chauffantes",
+      "prix": 300000,
+      "qtite": 5,
+      "desc": "tres bon produit",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
